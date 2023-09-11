@@ -3,5 +3,5 @@ En esta carpeta, se encuentran dos archivos referentes a la entrega de este mód
 
  * **Notebook: Precio de los autos** Revisar documento [**Portafolio_Estadistica.ipynb**](https://github.com/sofireyesm1/Portafolio_Analisis/blob/main/retro/M1_Statistics/Portafolio_Estadistica.ipynb)
  * **Reporte: Precio de los autos** Revisar documento [**FALTA**](FALTA)
- * **Base de datos** Revisar documento
- * **Diccionario base de datos** Revisar documento
+ * **Base de datos** Revisar documento [**precios_autos.csv**](https://github.com/sofireyesm1/Portafolio_Implementacion/blob/main/retro/M1_Statistics/precios_autos.csv)
+ * **Diccionario base de datos** Revisar documento [**precios_autos_Diccionario.xlsx**](https://github.com/sofireyesm1/Portafolio_Implementacion/blob/main/retro/M1_Statistics/precios_autos_Diccionario.xlsx)

@@ -1,5 +1,5 @@
-# Portafolio de Análisis
-Este portafolio contiene todos los entregables correspondientes al rubro de "Análisis" para la clase Inteligencia Artificial Avanzada 1 (TC3006). Toda la información se encuentra dividida en dos carpetas: Retro y Final. En esta última es donde se encuentran todos los archivos a revisar para la evaluación de subcompetencias de esta unidad de formación.
+# Portafolio de Implementación
+Este portafolio contiene todos los entregables correspondientes al rubro de "Implementación" para la clase Inteligencia Artificial Avanzada 1 (TC3006). Toda la información se encuentra dividida en dos carpetas: Retro y Final. En esta última es donde se encuentran todos los archivos a revisar para la evaluación de subcompetencias de esta unidad de formación.
 
 ## Estructura del repositorio
 La carpeta raíz contiene los siguientes archivos:
@@ -14,10 +14,9 @@ La carpeta raíz contiene los siguientes archivos:
 A continuación se encuentran las carpetas con los cambios requeridos y los documentos que deben calificarse para cada una de las subcompetencias:
 
 * *Modulo 1: Estadística*
-	* *SMA0102*
-		* **Evidencia 1: Análisis** Revisar carpeta [**Portafolio_Analisis/final/M1_Statistics/**](https://github.com/sofireyesm1/Portafolio_Analisis/tree/main/final/M1_Statistics)
+	* *SMA0101*
+		* **Evidencia 1: Implementación de _Precio de los carros_** Revisar carpeta [**final/M1_Statistics**](https://github.com/sofireyesm1/Portafolio_Implementacion/tree/main/final/M1_Statistics)
 * *Modulo 2: Machine Learning*
-	* *SMA0104*
-		* **Evidencia 1: Normativa de los datos** Revisar carpeta [**Portafolio_Analisis/final/M2_ML/Ev_01/**](https://github.com/sofireyesm1/Portafolio_Analisis/tree/main/final/M2_ML/Ev_01)
-		* **Evidencia 2: Análisis y reporte sobre el desempeño del modelo** Revisar carpeta [**Portafolio_Analisis/final/M2_ML/Ev_02/**
-](https://github.com/sofireyesm1/Portafolio_Analisis/tree/main/final/M2_ML/Ev_02)
+	* *SMA0401*
+		* **Evidencia 1: Modelo de ML manual** Revisar carpeta [**final/M2_ML**](https://github.com/sofireyesm1/Portafolio_Implementacion/tree/main/final/M2_ML)
+		* **Evidencia 2: Modelo de ML con uso de Framework** Revisar carpeta [**final/M2_ML**](https://github.com/sofireyesm1/Portafolio_Implementacion/tree/main/final/M2_ML)

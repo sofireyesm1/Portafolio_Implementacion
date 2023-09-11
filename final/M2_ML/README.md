@@ -24,16 +24,16 @@ Dentro de esta carpeta, se encuentran dos modelos de regresión de Machine Learn
   -  _Median house value_: mediana de los precios de casas en una manzana. Datos se encuentran en dólares. _(variable dependiente)_
 
 ## Proyecto 1: Algoritmo de ML manual
-El objetivo de este proyecto, es poder generar un modelo de regresión lineal simple del precio de las casas según el nivel de ingresos de las casas aledañas a esta. Esto se logra a través de un código que aplica gradiente descendiente y realiza el entrenamiento de forma manual. El proyecto puede ser encontrado en el [siguiente archivo](https://github.com/sofireyesm1/A00831314_Evidencia_1/blob/main/A00831314_T1_ML.ipynb).
+El objetivo de este proyecto, es poder generar un modelo de regresión lineal simple del precio de las casas según el nivel de ingresos de las casas aledañas a esta. Esto se logra a través de un código que aplica gradiente descendiente y realiza el entrenamiento de forma manual. El proyecto puede ser encontrado en el [siguiente archivo](https://github.com/sofireyesm1/Portafolio_Implementacion/blob/main/final/M2_ML/A00831314_T1_Final.ipynb).
 
 ## Proyecto 2: Framework con Sci-Kit Learn y Reporte de desempeño
-En este segundo proyecto, se utilizó la librería Sci-Kit Learn para aplicar un árbol de decisión regresor para predecir el valor de las casas de un distrito en California, en base de la edad de la casa, así como el ingreso medio de las familias que vivan en casas aledañas. Es importante recalcar que el archivo se encuentra dvidido en 2 partes (o dos entregas); el proyecto de aplicación mencionado (Entregable 2), y el análisis de desempeño del mismo (Entregable 3). Este último análisis consta de utilizar herramientas de diagnóstico (sego, varianza y ajuste) para identificar la calidad del modelo, y posteriormente se aplican ciertas mejoras al modelo según el análisis realizado. El proyecto se encuentra en el  [siguiente archivo](https://github.com/sofireyesm1/A00831314_Evidencia_1/blob/main/A00831314_T2_ML.ipynb).
+En este segundo proyecto, se utilizó la librería Sci-Kit Learn para aplicar un árbol de decisión regresor para predecir el valor de las casas de un distrito en California, en base de la edad de la casa, así como el ingreso medio de las familias que vivan en casas aledañas. Es importante recalcar que el archivo se encuentra dvidido en 2 partes (o dos entregas); el proyecto de aplicación mencionado (Entregable 2), y el análisis de desempeño del mismo (Entregable 3). Este último análisis consta de utilizar herramientas de diagnóstico (sego, varianza y ajuste) para identificar la calidad del modelo, y posteriormente se aplican ciertas mejoras al modelo según el análisis realizado. El proyecto se encuentra en el  [siguiente archivo](https://github.com/sofireyesm1/Portafolio_Implementacion/blob/main/final/M2_ML/A00831314_T2_T3.ipynb).
 
 ## Estructura del repositorio
-- [A00831314_T1_ML.ipynb](https://github.com/sofireyesm1/A00831314_Evidencia_1/blob/main/A00831314_T1_ML.ipynb) : Contiene el reporte y código del primer modelo de ML de regresión lineal simple.
-- [A00831314_T2_T3_ML.ipynb](https://github.com/sofireyesm1/A00831314_Evidencia_1/blob/main/A00831314_T2_ML.ipynb) : Contiene el reporte y código del segundo modelo de ML de árbol de decisión regresor, así como el reporte y código del análisis de desempeño de este segundo modelo. 
+- [A00831314_T1_ML_Final.ipynb](https://github.com/sofireyesm1/Portafolio_Implementacion/blob/main/final/M2_ML/A00831314_T1_Final.ipynb) : Contiene el reporte y código del primer modelo de ML de regresión lineal simple.
+- [A00831314_T2_T3_ML.ipynb](https://github.com/sofireyesm1/Portafolio_Implementacion/blob/main/final/M2_ML/A00831314_T2_T3.ipynb) : Contiene el reporte y código del segundo modelo de ML de árbol de decisión regresor, así como el reporte y código del análisis de desempeño de este segundo modelo. 
 - ReadMe (archivo actual): Archivo con toda la descripción del repositorio
-- [housing.csv](https://github.com/sofireyesm1/A00831314_Evidencia_1/blob/main/housing.csv): Base de datos utilizada en los dos modelos.
+- [housing.csv](https://github.com/sofireyesm1/Portafolio_Implementacion/blob/main/final/M2_ML/housing.csv): Base de datos utilizada en los dos modelos.
 
 ## Aplicación de cambios requeridos
 

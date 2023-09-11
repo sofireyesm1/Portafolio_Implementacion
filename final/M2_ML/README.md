@@ -40,7 +40,7 @@ En este segundo proyecto, se utilizó la librería Sci-Kit Learn para aplicar un
 A continuación se especifican los cambios pedidos en la retroalimentación de los entregables y cómo fueron cumplidos: 
 
 * **Proyecto 1: Algoritmo de ML manual**
-  * **1 y 2** **_El modelo se entrena sobre un subset de entrenamiento de un dataset y Se corren algunas predicciones para validar la salida del modelo, usando datos diferentes a los de entrenamiento:_** Para esto, se dividió el dataset en entrenamiento y hizo iteraciones con diferentes valores de delta con este mismo subset, esto con el fin de encontrar el mejor modelo según el menor valor de MAPE para las predicciones.
+*  * **1 y 2** **_El modelo se entrena sobre un subset de entrenamiento de un dataset y Se corren algunas predicciones para validar la salida del modelo, usando datos diferentes a los de entrenamiento:_** Para esto, se dividió el dataset en entrenamiento y hizo iteraciones con diferentes valores de delta con este mismo subset, esto con el fin de encontrar el mejor modelo según el menor valor de MAPE para las predicciones.
   * **3** **El readme contiene una descripción breve de la estructura del repositorio (qué es cada archivo/carpeta):_** En este mismo archivo se encuentra una sección para la estructura de la carpeta.
   * **4** **El readme contiene una sección de cambios implementados, donde se mencione el cambio indicado por el docente y lo que se hizo para resolverlo (solo aplica para entrega final):_** Esta es la sección implementada para mencionar los cambios realizados.
   * **5** **El reporte incluye un enlace al lugar donde se puede encontrar el dataset utilizado:_** Al inicio del notebook se encuentra una liga de la página donde se consiguió el dataset.
